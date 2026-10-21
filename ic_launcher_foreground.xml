@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- alça da lixeira -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,34h12v6H48z" />
+    <!-- tampa -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,40h32v4H38z" />
+    <!-- corpo -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,46h28l-2,26c0,1.1 -0.9,2 -2,2H44c-1.1,0 -2,-0.9 -2,-2z" />
+</vector>
